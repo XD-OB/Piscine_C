@@ -1,0 +1,6 @@
+# modifier mon numero de telephone:
+dn: uid=obelouch,ou=candidate,ou=people,dc=1337,dc=ma
+changetype: modify
+replace: mobile
+mobile: 0617616769
+

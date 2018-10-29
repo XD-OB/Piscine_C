@@ -1,0 +1,7 @@
+Credentials cache: API:1494
+        Principal: obelouch@1337.MA
+
+  Issued                Expires               Principal
+Aug 27 13:31:14 2018  Aug 27 23:31:01 2018  krbtgt/1337.MA@1337.MA
+Aug 27 13:31:16 2018  Aug 27 23:31:01 2018  ldap/ldap-master.1337.ma@1337.MA
+Aug 27 13:31:16 2018  Aug 27 23:31:01 2018  HTTP/iscsi.1337.ma@1337.MA

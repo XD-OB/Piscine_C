@@ -1,0 +1,4 @@
+# Detection des fichier de type 42:
+
+0x2A	string	4
+>&0		string	2	42 file
