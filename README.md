@@ -1,29 +1,37 @@
-My Work in the 1337 second pool
-Cheaters i see you (-42)
-if you see any errors or an improvement, you can suggest them :)
+My Work in the 1337 second pool,
+Cheaters i see you 🚨(-42),
+if you see any errors or an improvement, you can suggest them 😊
 
-Day00 100%
+✅Day00 100%
 
-Day01 100%
+✅Day01 100%
 
-Day02 100%
+✅Day02 100%
 
-Day03 100%
+✅Day03 100%
 
-Day04 85%
+✅Day04 85%
 
-Day05 76%
+✅Day05 76%
 
-Day06 100%
+✅Day06 100%
 
-Day07 60%
+✅Day07 60%
 
-Day08 100%
+✅Day08 100%
 
-Day09 32%
+✅Day09 32%
 
-Day10 100%
+✅Day10 100%
 
-Day11 82%
+✅Day11 82%
 
-MATCHNMATCH 100%
+❌Day12 not_done
+
+❌DAY13 not_done
+
+✅MATCHNMATCH 100%
+
+❌EvalExpr not_done
+
+❌Rushs not_done
